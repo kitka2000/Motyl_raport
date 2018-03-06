@@ -1,0 +1,67 @@
+lata	stopnie	liczba
+2007	doktorat na SGGW	85
+2007	doktorat poza SGGW	25
+2007	habilitacja na SGGW	19
+2007	habilitacja poza SGGW	3
+2007	tytu³ Profesora na SGGW	10
+2007	tytu³ profesora poza SGGW	3
+2008	doktorat na SGGW	79
+2008	doktorat poza SGGW	23
+2008	habilitacja na SGGW	14
+2008	habilitacja poza SGGW	3
+2008	tytu³ Profesora na SGGW	6
+2008	tytu³ profesora poza SGGW	2
+2009	doktorat na SGGW	61
+2009	doktorat poza SGGW	15
+2009	habilitacja na SGGW	24
+2009	habilitacja poza SGGW	2
+2009	tytu³ Profesora na SGGW	15
+2009	tytu³ profesora poza SGGW	6
+2010	doktorat na SGGW	88
+2010	doktorat poza SGGW	13
+2010	habilitacja na SGGW	12
+2010	habilitacja poza SGGW	4
+2010	tytu³ Profesora na SGGW	10
+2010	tytu³ profesora poza SGGW	0
+2011	doktorat na SGGW	84
+2011	doktorat poza SGGW	19
+2011	habilitacja na SGGW	21
+2011	habilitacja poza SGGW	6
+2011	tytu³ Profesora na SGGW	8
+2011	tytu³ profesora poza SGGW	5
+2012	doktorat na SGGW	64
+2012	doktorat poza SGGW	13
+2012	habilitacja na SGGW	22
+2012	habilitacja poza SGGW	9
+2012	tytu³ Profesora na SGGW	9
+2012	tytu³ profesora poza SGGW	4
+2013	doktorat na SGGW	80
+2013	doktorat poza SGGW	8
+2013	habilitacja na SGGW	32
+2013	habilitacja poza SGGW	9
+2013	tytu³ Profesora na SGGW	5
+2013	tytu³ profesora poza SGGW	1
+2014	doktorat na SGGW	55
+2014	doktorat poza SGGW	17
+2014	habilitacja na SGGW	43
+2014	habilitacja poza SGGW	10
+2014	tytu³ Profesora na SGGW	12
+2014	tytu³ profesora poza SGGW	1
+2015	doktorat na SGGW	58
+2015	doktorat poza SGGW	15
+2015	habilitacja na SGGW	12
+2015	habilitacja poza SGGW	5
+2015	tytu³ Profesora na SGGW	5
+2015	tytu³ profesora poza SGGW	1
+2016	doktorat na SGGW	75
+2016	doktorat poza SGGW	12
+2016	habilitacja na SGGW	21
+2016	habilitacja poza SGGW	11
+2016	tytu³ Profesora na SGGW	1
+2016	tytu³ profesora poza SGGW	1
+2017	doktorat na SGGW	60
+2017	doktorat poza SGGW	69
+2017	habilitacja na SGGW	21
+2017	habilitacja poza SGGW	6
+2017	tytu³ Profesora na SGGW	3
+2017	tytu³ profesora poza SGGW	1
